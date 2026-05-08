@@ -1,4 +1,4 @@
-
+Enhance Parallels Desktop for macOS with secure Workflow for Parallels Desktop for macOS - malware-scanner and clipboard-manager, the #1 workflow. Includes malware-scanner and
 
 
 
